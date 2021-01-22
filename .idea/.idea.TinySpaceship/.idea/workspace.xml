@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a20d512-b1c1-44ff-b5f2-0890bd711747" name="Default Changelist" comment="level bug" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/SystemBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CAD586AC-B2B8-4C2F-809B-1E2449B516B9/15/07dcb20c/TouchState.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.entities.physics@0.1.0-preview.3/Unity.2D.Entities.Physics/Collision/PhysicsBody/PhysicsBody.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39E29AE0-0BDF-4AAF-A285-E0CB1D7BE9FB/d5/a15281bf/ScreenToWorldId.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/Iterators/DynamicBuffer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.mathematics@1.2.1/Unity.Mathematics/random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.platforms@0.9.0-preview.9/Editor/Unity.Build/ResultBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1E441E86-84A1-4FE4-B8F8-A926D91AFC3A/3c/12a128f6/RemovedComponent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.tiny@0.31.0-preview.24/Unity.Tiny.Animation.Authoring/TinyAnimationAuthoring.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/EntityManagerTypes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.mathematics@1.2.1/Unity.Mathematics/float3.gen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9577AC7A-62EF-4317-9789-031239BA8798/3b/374c2f6b/Math.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.platforms@0.9.0-preview.9/Editor/Unity.Build/BuildPipelineBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.tiny@0.31.0-preview.24/Unity.Tiny.Animation/Systems/CompleteAnimationBindings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/Types/TypeManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CAEFB30C-0F39-4FA5-9DDE-79EB2747D8D0/22/132510c5/IConvertGameObjectToEntity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Core/TimeData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/Types/Entity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/job/tiny/Assets/Scripts/Runtime/Systems/ButtonsSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/EntityManagerAccessComponentData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/EntityDataAccess.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/EntityComponentStoreDebug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.tiny@0.31.0-preview.24/Unity.Tiny.Animation.Authoring/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/ComponentSystemBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.platforms@0.9.0-preview.9/Editor/Unity.Build/BuildAssemblyCache.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collections@0.14.0-preview.16/Unity.Collections/Memory.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E414E10B-FE5F-4572-9FF1-22F3359DE21B/14/8196f803/ISerializationCallbackReceiver.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E414E10B-FE5F-4572-9FF1-22F3359DE21B/c8/1b077017/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E414E10B-FE5F-4572-9FF1-22F3359DE21B/34/a2132551/UnityEventBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/EntityManagerChangeArchetype.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.tiny@0.31.0-preview.24/Unity.Tiny.Animation/Systems/TinyAnimation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.tiny@0.31.0-preview.24/Unity.Tiny.Animation/Systems/TinyAnimationSystemGroup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/15A597FB-49D0-430F-9286-84546BDC5DD8/d4/cb4d2387/Sprite.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/Stubs/Unity/Debug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0EBEB27C-A6DF-45BB-AEEC-500DC98FF733/35/11410d07/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.tiny@0.31.0-preview.24/Unity.Tiny.Text.Authoring/TextRenderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/4e/316c2461/Array.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/job/tiny/Assets/Scripts/Runtime/Systems/ButtonsSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.mathematics@1.2.1/Unity.Mathematics/int2.gen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/EntityManagerDebug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/job/tiny/Assets/Scripts/Runtime/Systems/CheckResultSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/ComponentSystemGroup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.tiny@0.31.0-preview.24/Unity.Tiny.Animation.Authoring/CreateAnimationBindingAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Transforms/Scale.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9577AC7A-62EF-4317-9789-031239BA8798/39/1bcc721d/IComparable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.tiny@0.31.0-preview.24/Unity.Tiny.Core/Assert.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1F59C03A-FEE4-4241-ADE2-4AEFF9FF526C/5f/7d0d5600/LevelInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/EntityCommandBuffer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9ACBC18A-E40E-4018-953E-37468765A5FD/da/431bed59/IBufferElementData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87CE1848-31CA-4CF7-9001-3E1D3DF00DDC/a1/9474088e/TinyAnimationTime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Transforms/RotationEuler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Transforms/Translation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.tiny@0.31.0-preview.24/Unity.Tiny.Rendering/ScreenToWorld.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39E29AE0-0BDF-4AAF-A285-E0CB1D7BE9FB/5f/0e6363d9/ScreenToWorldRoot.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87CE1848-31CA-4CF7-9001-3E1D3DF00DDC/62/502ed441/TinyAnimationClipRef.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/92CF35CE-CADB-4CD3-A5E4-32DF9705ABAD/1e/51104388/BlobAssetChange.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1E441E86-84A1-4FE4-B8F8-A926D91AFC3A/6b/af5de721/AnimationWindow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.tiny@0.31.0-preview.24/Unity.Tiny.Text.Authoring/TextRendererConversion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/EntityManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.tiny@0.31.0-preview.24/Unity.Tiny.Text/TextLayout.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1E441E86-84A1-4FE4-B8F8-A926D91AFC3A/3b/5e0155bd/AnimationWindowClipPopup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/Iterators/EntityQuery.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/Components/LevelsComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/CodeGeneratedJobForEach/LambdaJobDescription.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/EntityCommandBuffer.interop.gen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Authoring/GameMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/EntityManagerCreateDestroyEntities.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/c9/9101106d/List`1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1E441E86-84A1-4FE4-B8F8-A926D91AFC3A/6c/e4850448/AnimEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/92CF35CE-CADB-4CD3-A5E4-32DF9705ABAD/1e/4b6648bc/BlobAssetReferenceChange.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/Components/DrawLevelComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/World.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E414E10B-FE5F-4572-9FF1-22F3359DE21B/ed/2ab1d839/Sprite.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.mathematics@1.2.1/Unity.Mathematics/math.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities.Hybrid/GameObjectConversion/GameObjectConversionSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.tiny@0.31.0-preview.24/Unity.Tiny.Input/Input.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/Systems/InputToActionSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.entities.physics@0.1.0-preview.3/Unity.2D.Entities.Physics/Dynamics/World/PhysicsWorld.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/Systems/DrawBordersSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/Components/CurrentLevelComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1E441E86-84A1-4FE4-B8F8-A926D91AFC3A/cb/4d8654e7/AnimationUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.platforms@0.9.0-preview.9/Editor/Unity.Build.DotsRuntime/Components/DotsRuntimeRootAssembly.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/Systems/DrawLevelSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/InputUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C2C28FF0-FEAE-42EB-AF5F-1889DA415BC2/28/ec576198/ScalePivot.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Runtime/CameraUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E414E10B-FE5F-4572-9FF1-22F3359DE21B/35/5380cc7b/NativeArray`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/87CE1848-31CA-4CF7-9001-3E1D3DF00DDC/f2/7c72c56c/TinyAnimationPlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.entities.physics@0.1.0-preview.3/Unity.2D.Entities.Physics/Collision/Query/Queryable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9577AC7A-62EF-4317-9789-031239BA8798/dd/cc3b36ba/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18C791CB-29B2-45EE-8DDB-A9CDB299D90C/17/4b8db36e/TextRendererString.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.entities.physics@0.1.0-preview.3/Unity.2D.Entities.Physics/Collision/World/Broadphase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.entities.physics@0.1.0-preview.3/Unity.2D.Entities.Physics/Collision/World/CollisionWorld.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.entities.physics@0.1.0-preview.3/Unity.2D.Entities.Physics/Collision/Query/Overlap.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.tiny@0.31.0-preview.24/Unity.Tiny.Animation.Authoring/TinyAnimationScalePatcher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.mathematics@1.2.1/Unity.Mathematics/float2.gen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/EntityManagerQuery.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.entities.physics@0.1.0-preview.3/Unity.2D.Entities.Physics/Collision/Geometry/BoundingVolumeHierarchy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.tiny@0.31.0-preview.24/Unity.Tiny.Text/TextRenderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.entities.physics@0.1.0-preview.3/Unity.2D.Entities.Physics/Collision/Geometry/BoundingVolumeHierarchyBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/Blobs.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F3D297DD-97AC-4BBA-AD3A-899ECF1C7097/17/a0895822/IQueryable.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Components/Prefabs.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Components/CurrentLevel.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Components/GamePrefabs.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Components/CurrentLevelComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Components/GamePrefabsComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Components/DrawLevelComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Prefabs.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Authoring/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ScritableObjects/Levels.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ScritableObjects/Level.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Level.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Components/Level.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Components/LevelsInfoComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Components/LevelComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Authoring/GameManagerAuthoring.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Authoring/DrawLevelSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/DrawLevelSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Auth/Level.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Auth/GameManagerAuthoring.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameManagerAuthoring.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GameMain.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Level.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/SpritesData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Components/LevelsComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Systems/DrawLevelSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Authoring/Level.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/TinySpaceship.asmdef" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Authoring/TinySpaceship.Authoring.asmdef" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/GameStatic.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Level.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Components/DrawLevelComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Components/InputActivationComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/TinySpaceship.asmdef" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/CameraUtil.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/InputUtil.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Components/LevelsComponent.cs" />
+      <option value="$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.16.0-preview.21/Unity.Entities/EntityManagerCreateDestroyEntities.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Components/GamePrefabsComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Components/CheckResultComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Components/ButtonsComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Components/Test.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Systems/InputToActionSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Components/TextLevelComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Systems/DrawBordersSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Systems/CheckResultSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Systems/DrawLevelSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Components/CurrentLevelComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Components/MaxLevelComponent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Authoring/GameMain.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Runtime/Systems/ButtonsSystem.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1m9Be7QY0UT7biqYByH3kNF2pQj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration default="true" type="DotNetStaticMethod" factoryName=".NET Static Method">
+      <option name="EXE_PATH" value="C:\Program Files\JetBrains\JetBrains Rider 2020.3\lib\ReSharperHost\JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Temp/Bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TinySpaceship.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a20d512-b1c1-44ff-b5f2-0890bd711747" name="Default Changelist" comment="" />
+      <created>1608896018454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608896018454</updated>
+      <workItem from="1608896051905" duration="594000" />
+      <workItem from="1608897155795" duration="1030000" />
+      <workItem from="1608899924042" duration="11780000" />
+      <workItem from="1608913258592" duration="22107000" />
+      <workItem from="1608969355802" duration="1011000" />
+      <workItem from="1608970416610" duration="879000" />
+      <workItem from="1608971465011" duration="10341000" />
+      <workItem from="1609010552976" duration="9291000" />
+      <workItem from="1609057926480" duration="296000" />
+      <workItem from="1609059920667" duration="1051000" />
+      <workItem from="1609061068630" duration="7306000" />
+      <workItem from="1609163890689" duration="17408000" />
+      <workItem from="1609183219082" duration="23757000" />
+      <workItem from="1609251688358" duration="11876000" />
+      <workItem from="1609270542661" duration="31939000" />
+      <workItem from="1609349231502" duration="4059000" />
+    </task>
+    <task id="LOCAL-00001" summary="git ignore">
+      <created>1609349291664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609349291664</updated>
+    </task>
+    <task id="LOCAL-00002" summary="all">
+      <created>1609349525399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609349525399</updated>
+    </task>
+    <task id="LOCAL-00003" summary="all">
+      <created>1609349898484</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609349898484</updated>
+    </task>
+    <task id="LOCAL-00004" summary="level bug">
+      <created>1609351939788</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609351939788</updated>
+    </task>
+    <task id="LOCAL-00005" summary="level bug">
+      <created>1609354792268</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609354792268</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="git ignore" />
+    <MESSAGE value="all" />
+    <MESSAGE value="level bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="level bug" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression="rand.NextInt(i, count)" language="C#" />
+        <watch expression="rand.NextInt(i, count)" language="C#" />
+        <watch expression="rand.NextInt(0, 8)" language="C#" />
+        <watch expression="InputUtil.GetInputPosition(input)" language="C#" />
+        <watch expression="nodes.GetUnsafeReadOnlyPtr()" language="C#" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
