@@ -1,0 +1,28 @@
+{
+    "name": "TinySpaceship",
+    "rootNamespace": "",
+    "references": [
+        "Unity.Entities",
+        "Unity.Scenes",
+        "Unity.Tiny.2D",
+        "Unity.Transforms",
+        "Unity.Mathematics",
+        "Unity.Tiny.Rendering",
+        "Unity.Tiny.Input",
+        "Unity.Collections",
+        "Unity.2D.Entities.Physics",
+        "Unity.Tiny.Text",
+        "Unity.Tiny.Core",
+        "Unity.Tiny.Animation",
+        "Unity.Tiny.Animation.Authoring"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
